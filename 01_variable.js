@@ -8,3 +8,13 @@ console.log(city);
 
 var pin; // Variable Declaration
 console.log(pin);
+
+var street;//declaration
+street ="Wakad"; //Initialization
+street ="Baner Rd" // Variable update
+console.log(street);
+
+
+
+
+
