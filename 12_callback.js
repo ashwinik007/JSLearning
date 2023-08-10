@@ -13,3 +13,5 @@ let stewCopyHomework = function(){
 }
 
 jennyHomework(stewCopyHomework);
+
+console.log(`callback function `);
