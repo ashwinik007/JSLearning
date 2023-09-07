@@ -14,9 +14,10 @@ const negativeNumber = []
 arrayNumber.forEach((currentValue) => {
     if (currentValue < 0) {
         negativeNumber.push(currentValue)
-        console.log(`Negative number in array is : ${negativeNumber}`);
+        
     }
 });
+console.log(`Negative number in array is :`,negativeNumber);
 console.log(`------------------------------step4--------------------`);
 arrayNumber.forEach((currentValue) => {
     if (currentValue%2==0) {
